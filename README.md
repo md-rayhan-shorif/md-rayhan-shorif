@@ -12,10 +12,7 @@ I'm  MD. Rayhan Shorif From Bangladesh<br><br>🎓 BSc Computing & IT Student at
 ![](https://streak-stats.demolab.com/?user=md-rayhan-shorif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=md-rayhan-shorif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=md-rayhan-shorif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-[![](https://komarev.com/ghpvc/?username=md-rayhan-shorif&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=md-rayhan-shorif&icon=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
